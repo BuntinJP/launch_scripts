@@ -2,6 +2,9 @@
   "name": "launch_scripts",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "check": "plutil -lint run_launch_scripts.plist"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },

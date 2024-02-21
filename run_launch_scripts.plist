@@ -4,7 +4,8 @@
 <dict>
     <!-- launchd プロセスで一意ならOK -->
     <key>Label</key>
-    <string>com.example.hello</string>
+        <string>tech.buntin.mac.BuntinLaunchScripts</string>
+
 
     <!-- 実行するコマンド -->
     <key>ProgramArguments</key>
